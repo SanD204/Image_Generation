@@ -6,7 +6,7 @@ import random
 import time
 import os
 
-Openai_api_key = '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'
+Openai_api_key = #Your_API_Key
 
 def download_image(url):
     response = requests.get(url)
